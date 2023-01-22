@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../CoreBusiness/CoreBusiness.csproj",
+      "msbuildProject": "../CoreBusiness/CoreBusiness.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CoreBusiness >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\myc\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\mycManagement\\SupermarketManagement\\UseCases\\UseCases.csproj",
+      "projectName": "UseCases",
+      "projectPath": "E:\\mycManagement\\SupermarketManagement\\UseCases\\UseCases.csproj",
+      "packagesPath": "C:\\Users\\myc\\.nuget\\packages\\",
+      "outputPath": "E:\\mycManagement\\SupermarketManagement\\UseCases\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\myc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\mycManagement\\SupermarketManagement\\CoreBusiness\\CoreBusiness.csproj": {
+              "projectPath": "E:\\mycManagement\\SupermarketManagement\\CoreBusiness\\CoreBusiness.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

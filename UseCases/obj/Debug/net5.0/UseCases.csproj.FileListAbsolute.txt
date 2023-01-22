@@ -1,0 +1,37 @@
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\bin\Debug\net5.0\UseCases.deps.json
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\bin\Debug\net5.0\UseCases.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\bin\Debug\net5.0\ref\UseCases.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\bin\Debug\net5.0\UseCases.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\bin\Debug\net5.0\CoreBusiness.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.csproj.AssemblyReference.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfoInputs.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfo.cs
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.csproj.CoreCompileInputs.cache
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.csproj.CopyComplete
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\obj\Debug\net5.0\ref\UseCases.dll
+C:\Projects\Frank\Supermarket Management\Code\supermarket\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.pdb
+C:\Users\myc\source\repos\mycManagement\UseCases\obj\Debug\net5.0\UseCases.csproj.AssemblyReference.cache
+C:\Users\myc\source\repos\mycManagement\UseCases\obj\Debug\net5.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myc\source\repos\mycManagement\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfoInputs.cache
+C:\Users\myc\source\repos\mycManagement\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfo.cs
+C:\Users\myc\source\repos\mycManagement\UseCases\obj\Debug\net5.0\UseCases.csproj.CoreCompileInputs.cache
+C:\Users\myc\source\repos\mycManagement\UseCases\obj\Debug\net5.0\UseCases.dll
+C:\Users\myc\source\repos\mycManagement\UseCases\obj\Debug\net5.0\UseCases.pdb
+E:\mycManagement\SupermarketManagement\UseCases\bin\Debug\net5.0\UseCases.deps.json
+E:\mycManagement\SupermarketManagement\UseCases\bin\Debug\net5.0\UseCases.dll
+E:\mycManagement\SupermarketManagement\UseCases\bin\Debug\net5.0\UseCases.pdb
+E:\mycManagement\SupermarketManagement\UseCases\bin\Debug\net5.0\CoreBusiness.dll
+E:\mycManagement\SupermarketManagement\UseCases\bin\Debug\net5.0\CoreBusiness.pdb
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.csproj.AssemblyReference.cache
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfoInputs.cache
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.AssemblyInfo.cs
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.csproj.CoreCompileInputs.cache
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.csproj.CopyComplete
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.dll
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\refint\UseCases.dll
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\UseCases.pdb
+E:\mycManagement\SupermarketManagement\UseCases\obj\Debug\net5.0\ref\UseCases.dll
